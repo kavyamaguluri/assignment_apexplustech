@@ -6,7 +6,6 @@ import Row from "react-bootstrap/esm/Row";
 import Col from "react-bootstrap/esm/Col";
 import Button from "react-bootstrap/esm/Button";
 function Addscenario() {
-  
   return (
     <Container>
       <Form className="form">

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -11,20 +11,15 @@ import Allscenario from "./Allscenario";
 import Addvehicles from "./Addvehicles";
 import { MdEdit } from "react-icons/md";
 import { RiDeleteBin5Fill } from "react-icons/ri";
-import Data from "./Data";
 
 function Home() {
-  
-
   return (
     <div>
       <Container>
         <Row>
           <Col md={2} className="home">
             <Dropdown>
-              <Dropdown.Toggle  className="dropdow">
-                Home
-              </Dropdown.Toggle>
+              <Dropdown.Toggle className="dropdow">Home</Dropdown.Toggle>
 
               <Dropdown.Menu>
                 <Dropdown.Item>Add Scenario</Dropdown.Item>
