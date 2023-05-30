@@ -1,0 +1,23 @@
+.all_scenario_row{
+    color: white;
+}
+.all_scenario_table{
+    margin: 0px;
+}
+.all_scenario_table_data{
+    color: black;
+    background-color: #f0f2f2;
+}
+.all_scenario_table_head{
+    color: white;
+    background-color:#3a3c40;
+}
+.all_scenario_col1{
+    margin: 13px 0 30px 3px;
+}
+.all_scenario_col2{
+    margin: 0 0 0 237px;
+}
+.all_scenario_button{
+    margin: 0 0 0 15px;
+}

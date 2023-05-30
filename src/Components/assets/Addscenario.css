@@ -1,0 +1,23 @@
+.form{
+    background-color: #302e2e;
+    margin: 30px 100px 30px 100px;
+}
+.form_row{
+    padding: 20px 30px;
+}
+.scenario_name{
+    margin: 20px;
+}
+.scenario_time{
+    margin: 20px;
+}
+.Form.Control ::placeholder{
+    font-size: xx-small;
+}
+.button{
+    margin: 0 0 50px 100px;
+}
+.formbelow_button{
+    margin: 0 20px 30px 0;
+}
+
